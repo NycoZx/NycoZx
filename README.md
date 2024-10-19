@@ -7,7 +7,7 @@ Estou iniciando minha carreira dentro da area da programacao
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nycollaz_g/)
 
-### Tecnologias que estou aprendendo no meu dia a dia:
+### Tecnologias que estou aprendendo e ultilizando no meu dia a dia:
 
 <div style="display: inline_block">
     <img align="center" alt="javascript" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
