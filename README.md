@@ -3,10 +3,12 @@
 
 Estou iniciando minha carreira dentro da area da programacao
 
+<hr>
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nycollaz_g/)
 
-
 ![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=NycoZx&show_icons=true&theme=dracula)
+<hr>
 
 ### Tecnologias que estou aprendendo no meu dia a dia:
 
